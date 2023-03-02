@@ -2,11 +2,17 @@
     {
         "songName": "Feel Good",
         "artist": "Gryffin",
-        "albumArt": "images/feelgood.jpg"
+        "albumArt": "images/feelgood.jpg",
+        "url": "https://evc117.pcloud.com/dHZELvCeHZcthc4YZ9pkRZZB6lHo7Z2ZZ3pRZkZLERhZvEYi58dcCDFzSVvpnWPfgLXk4HTV/Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
+        "startTime": 216,
+        "endTime": 228
     },
     {
         "songName": "Feel Good1",
         "artist": "Gryffin1",
-        "albumArt": "images/feelgood.jpg"
+        "albumArt": "images/feelgood.jpg",
+        "url": "https://edef1.pcloud.com/cBZPvwNeHZoRHj8YZ9pkRZZ4jtHo7Z2ZZ3pRZkZckcLZs7ZFXZUZmkZAXZEXZx7Z3kZ7XZbVZ5VZfXZhXZ0XZawLhZ3GPuDrRF06SPqh2stekEeVvWBbi7/Ed%20Sheeran%20-%20Beautiful%20People%20%28feat%20Khalid%29%20%5BOfficial%20Lyric%20Video%5D.mp3",
+        "startTime": 140,
+        "endTime": 148
     }
 ]
