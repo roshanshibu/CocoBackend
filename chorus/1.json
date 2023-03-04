@@ -3,7 +3,7 @@
         "songName": "Feel Good",
         "artist": "Gryffin",
         "albumArt": "images/feelgood.jpg",
-        "url": "https://evc117.pcloud.com/dHZELvCeHZcthc4YZ9pkRZZB6lHo7Z2ZZ3pRZkZLERhZvEYi58dcCDFzSVvpnWPfgLXk4HTV/Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
+        "url": "https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/songs/Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
         "startTime": 216,
         "endTime": 228
     },
@@ -11,7 +11,31 @@
         "songName": "Feel Good1",
         "artist": "Gryffin1",
         "albumArt": "images/feelgood.jpg",
-        "url": "https://edef1.pcloud.com/cBZPvwNeHZoRHj8YZ9pkRZZ4jtHo7Z2ZZ3pRZkZckcLZs7ZFXZUZmkZAXZEXZx7Z3kZ7XZbVZ5VZfXZhXZ0XZawLhZ3GPuDrRF06SPqh2stekEeVvWBbi7/Ed%20Sheeran%20-%20Beautiful%20People%20%28feat%20Khalid%29%20%5BOfficial%20Lyric%20Video%5D.mp3",
+        "url": "https://github.com/roshanshibu/CocoBackend/blob/master/songs/3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
+        "startTime": 140,
+        "endTime": 148
+    },
+    {
+        "songName": "Feel Good2",
+        "artist": "Gryffin2",
+        "albumArt": "images/feelgood.jpg",
+        "url": "https://github.com/roshanshibu/CocoBackend/blob/master/songs/3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
+        "startTime": 140,
+        "endTime": 148
+    },
+    {
+        "songName": "Feel Good3",
+        "artist": "Gryffin1",
+        "albumArt": "images/feelgood.jpg",
+        "url": "https://github.com/roshanshibu/CocoBackend/blob/master/songs/3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
+        "startTime": 140,
+        "endTime": 148
+    },
+    {
+        "songName": "Feel Good4",
+        "artist": "Gryffin1",
+        "albumArt": "images/feelgood.jpg",
+        "url": "https://github.com/roshanshibu/CocoBackend/blob/master/songs/3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
         "startTime": 140,
         "endTime": 148
     }
