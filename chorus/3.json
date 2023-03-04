@@ -1,46 +1,50 @@
 [
     {
+        "song_base_url": "https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/songs/",
+        "album_art_base_url": "https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/"
+    }, 
+    {
         "songName": "Feel Good",
         "artist": "Gryffin",
-        "albumArt": "images/feelgood.jpg",
+        "albumArt": "feelgood.jpg",
         "color": "#FFB873",
-        "url": "https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/songs/Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
+        "url": "Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
         "startTime": 216,
         "endTime": 228
     },
     {
         "songName": "Feel Good1",
         "artist": "Gryffin1",
-        "albumArt": "images/feelgood.jpg",
+        "albumArt": "feelgood.jpg",
         "color": "#FFB873",
-        "url": "https://github.com/roshanshibu/CocoBackend/blob/master/songs/3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
+        "url": "Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
         "startTime": 140,
         "endTime": 148
     },
     {
         "songName": "Feel Good2",
         "artist": "Gryffin2",
-        "albumArt": "images/feelgood.jpg",
+        "albumArt": "feelgood.jpg",
         "color": "#FFB873",
-        "url": "https://github.com/roshanshibu/CocoBackend/blob/master/songs/3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
+        "url": "Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
         "startTime": 140,
         "endTime": 148
     },
     {
         "songName": "Feel Good3",
         "artist": "Gryffin1",
-        "albumArt": "images/feelgood.jpg",
+        "albumArt": "feelgood.jpg",
         "color": "#FFB873",
-        "url": "https://github.com/roshanshibu/CocoBackend/blob/master/songs/3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
+        "url": "Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
         "startTime": 140,
         "endTime": 148
     },
     {
         "songName": "Feel Good4",
         "artist": "Gryffin1",
-        "albumArt": "images/feelgood.jpg",
+        "albumArt": "feelgood.jpg",
         "color": "#FFB873",
-        "url": "https://github.com/roshanshibu/CocoBackend/blob/master/songs/3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
+        "url": "Gryffin%20Illenium%20-%20Feel%20Good%20ft%20Daya.mp3",
         "startTime": 140,
         "endTime": 148
     }
