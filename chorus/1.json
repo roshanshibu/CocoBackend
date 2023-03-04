@@ -2,6 +2,24 @@
     {
         "song_base_url": "https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/songs/",
         "album_art_base_url": "https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/"
+    },
+    {
+        "songName": "You Are The Reason",
+        "artist": "Calum Scott",
+        "albumArt": "youare.jpg",
+        "color": "#9b9b9b",
+        "url": "Calum%20Scott%20-%20You%20Are%20The%20Reason%20(Official).mp3",
+        "startTime": 49,
+        "endTime": 65
+    },
+    {
+        "songName": "Touch",
+        "artist": "3LAU",
+        "albumArt": "touch.jpg",
+        "color": "#ff5a5a",
+        "url": "3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
+        "startTime": 60,
+        "endTime": 72
     }, 
     {
         "songName": "Feel Good",
@@ -13,15 +31,6 @@
         "endTime": 228
     },
     {
-        "songName": "Touch",
-        "artist": "3LAU",
-        "albumArt": "touch.jpg",
-        "color": "#ff5a5a",
-        "url": "3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
-        "startTime": 60,
-        "endTime": 72
-    },
-    {
         "songName": "Beautiful People",
         "artist": "Ed Sheeran",
         "albumArt": "beautifulpeople.jpg",
@@ -29,15 +38,6 @@
         "url": "Ed%20Sheeran%20-%20Beautiful%20People%20(feat%20Khalid)%20%5BOfficial%20Lyric%20Video%5D.mp3",
         "startTime": 140,
         "endTime": 148
-    },
-    {
-        "songName": "You Are The Reason",
-        "artist": "Calum Scott",
-        "albumArt": "youare.jpg",
-        "color": "#9b9b9b",
-        "url": "Calum%20Scott%20-%20You%20Are%20The%20Reason%20(Official).mp3",
-        "startTime": 49,
-        "endTime": 65
     },
     {
         "songName": "Lose You Too",
