@@ -65,5 +65,14 @@
         "url": "Thomas%20Rhett%20-%20Slow%20Down%20Summer%20Lyrics.mp3",
         "startTime": 38,
         "endTime": 65
+    },
+    {
+        "songName": "Heaven",
+        "artist": "Bryan Adams",
+        "albumArt": "heavenX.jpg",
+        "color": "#ffffff",
+        "url": "Bryan%20Adams%20-%20Heaven%20(Classic%20Version).mp3",
+        "startTime": 46,
+        "endTime": 58
     }
 ]
