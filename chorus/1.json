@@ -49,12 +49,12 @@
         "endTime": 69
     },
     {
-        "songName": "It's Not Living",
-        "artist": "The 1975",
-        "albumArt": "itsnot.png",
-        "color": "#5a0c60",
-        "url": "The%201975%20%20Its%20Not%20Living%20(If%20Its%20Not%20With%20You)%20Lyrics.mp3",
-        "startTime": 52,
-        "endTime": 67
+        "songName": "Slow Down Summer",
+        "artist": "Thomas Rhett",
+        "albumArt": "slow.jpg",
+        "color": "#82baa9",
+        "url": "Shy%20Martin%20-%20Lose%20You%20Too%20(Lyrics)%20Severo%20Remix.mp3",
+        "startTime": 38,
+        "endTime": 65
     }
 ]
