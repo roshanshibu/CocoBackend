@@ -13,6 +13,24 @@
         "endTime": 65
     },
     {
+        "songName": "Slow Down Summer",
+        "artist": "Thomas Rhett",
+        "albumArt": "slow.jpg",
+        "color": "#88c9c5",
+        "url": "Thomas%20Rhett%20-%20Slow%20Down%20Summer%20Lyrics.mp3",
+        "startTime": 38,
+        "endTime": 65
+    },
+    {
+        "songName": "Heaven",
+        "artist": "Bryan Adams",
+        "albumArt": "heaven.gif",
+        "color": "#ffffff",
+        "url": "Bryan%20Adams%20-%20Heaven%20(Classic%20Version).mp3",
+        "startTime": 46,
+        "endTime": 58
+    },
+    {
         "songName": "Touch",
         "artist": "3LAU",
         "albumArt": "touch.jpg",
@@ -20,6 +38,15 @@
         "url": "3LAU%20feat%20Carly%20Paige%20-%20Touch%20(Official%20Video).mp3",
         "startTime": 60,
         "endTime": 72
+    },
+    {
+        "songName": "Slow (R3hab Remix)",
+        "artist": "Matoma",
+        "albumArt": "matoma.jpg",
+        "color": "#b55fec",
+        "url": "matoma%20slow%20r3hab%20remix.mp3",
+        "startTime": 55,
+        "endTime": 68
     }, 
     {
         "songName": "Feel Good",
