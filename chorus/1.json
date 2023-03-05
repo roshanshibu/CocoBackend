@@ -56,5 +56,14 @@
         "url": "Thomas%20Rhett%20-%20Slow%20Down%20Summer%20Lyrics.mp3",
         "startTime": 38,
         "endTime": 65
+    },
+    {
+        "songName": "Slow",
+        "artist": "Matoma",
+        "albumArt": "matoma.jpg",
+        "color": "#c54052",
+        "url": "matoma%20slow%20r3hab%20remix.mp3",
+        "startTime": 54,
+        "endTime": 68
     }
 ]
