@@ -1,198 +1,202 @@
 [
 	{
-		"endTime": 3.3000000000000007,
+		"startTime": 0,
+		"lyric": "MUSIC_ICON"
+	},
+	{
+		"startTime": 3.3000000000000007,
 		"lyric": "We are, we are, we are"
 	},
 	{
-		"endTime": 16.3,
+		"startTime": 16.3,
 		"lyric": "L.A. on a Saturday night in the summer"
 	},
 	{
-		"endTime": 19.8,
+		"startTime": 19.8,
 		"lyric": "Sundown and they all come out"
 	},
 	{
-		"endTime": 22.500000000000004,
+		"startTime": 22.500000000000004,
 		"lyric": "Lamborghinis and their rented Hummers"
 	},
 	{
-		"endTime": 24.900000000000002,
+		"startTime": 24.900000000000002,
 		"lyric": "The party's on, so they're headin' downtown ('Round here)"
 	},
 	{
-		"endTime": 27.599999999999998,
+		"startTime": 27.599999999999998,
 		"lyric": "Everybody's lookin' for a come up"
 	},
 	{
-		"endTime": 30.000000000000004,
+		"startTime": 30.000000000000004,
 		"lyric": "And they wanna know what you're about"
 	},
 	{
-		"endTime": 32.599999999999994,
+		"startTime": 32.599999999999994,
 		"lyric": "Me in the middle with the one I love and"
 	},
 	{
-		"endTime": 35.2,
+		"startTime": 35.2,
 		"lyric": "We're just tryna figure everything out"
 	},
 	{
-		"endTime": 37.599999999999994,
+		"startTime": 37.599999999999994,
 		"lyric": "We don't fit in well 'cause we are just ourselves"
 	},
 	{
-		"endTime": 42.400000000000006,
+		"startTime": 42.400000000000006,
 		"lyric": "I could use some help gettin' out of this conversation, yeah"
 	},
 	{
-		"endTime": 47.599999999999994,
+		"startTime": 47.599999999999994,
 		"lyric": "You look stunning, dear, so don't ask that question here"
 	},
 	{
-		"endTime": 52.7,
+		"startTime": 52.7,
 		"lyric": "This is my only fear: that we become"
 	},
 	{
-		"endTime": 56.599999999999994,
+		"startTime": 56.599999999999994,
 		"lyric": "Beautiful people"
 	},
 	{
-		"endTime": 58.3,
+		"startTime": 58.3,
 		"lyric": "Drop top, designer clothes"
 	},
 	{
-		"endTime": 60.7,
+		"startTime": 60.7,
 		"lyric": "Front row at fashion shows"
 	},
 	{
-		"endTime": 63.099999999999994,
+		"startTime": 63.099999999999994,
 		"lyric": "\"What d'you do?\" and \"Who d'you know?\""
 	},
 	{
-		"endTime": 65.7,
+		"startTime": 65.7,
 		"lyric": "Inside the world of beautiful people"
 	},
 	{
-		"endTime": 68.5,
+		"startTime": 68.5,
 		"lyric": "Champagne and rolled-up notes"
 	},
 	{
-		"endTime": 70.89999999999999,
+		"startTime": 70.89999999999999,
 		"lyric": "Prenups and broken homes"
 	},
 	{
-		"endTime": 73.39999999999999,
+		"startTime": 73.39999999999999,
 		"lyric": "Surrounded, but still alone"
 	},
 	{
-		"endTime": 75.89999999999999,
+		"startTime": 75.89999999999999,
 		"lyric": "Let's leave the party"
 	},
 	{
-		"endTime": 77.8,
+		"startTime": 77.8,
 		"lyric": "That's not who we are (We are, we are, we are)"
 	},
 	{
-		"endTime": 82.6,
+		"startTime": 82.6,
 		"lyric": "We are not beautiful"
 	},
 	{
-		"endTime": 87.8,
+		"startTime": 87.8,
 		"lyric": "Yeah, that's not who we are (We are, we are, we are)"
 	},
 	{
-		"endTime": 93.0,
+		"startTime": 93.0,
 		"lyric": "We are not beautiful (Beautiful)"
 	},
 	{
-		"endTime": 98.6,
+		"startTime": 98.6,
 		"lyric": "L.A., mmm, drove for hours last night and we made it nowhere (Nowhere, nowhere)"
 	},
 	{
-		"endTime": 106.1,
+		"startTime": 106.1,
 		"lyric": "I see stars in your eyes when we're halfway there (All night)"
 	},
 	{
-		"endTime": 111.39999999999999,
+		"startTime": 111.39999999999999,
 		"lyric": "I'm not fazed by all them lights and flashin' cameras"
 	},
 	{
-		"endTime": 116.39999999999999,
+		"startTime": 116.39999999999999,
 		"lyric": "'Cause with my arms around you, there's no need to care"
 	},
 	{
-		"endTime": 120.2,
+		"startTime": 120.2,
 		"lyric": "We don't fit in well, we are just ourselves"
 	},
 	{
-		"endTime": 125.10000000000001,
+		"startTime": 125.10000000000001,
 		"lyric": "I could use some help gettin' out of this conversation, yeah"
 	},
 	{
-		"endTime": 130.10000000000002,
+		"startTime": 130.10000000000002,
 		"lyric": "You look stunning, dear, so don't ask that question here"
 	},
 	{
-		"endTime": 135.20000000000002,
+		"startTime": 135.20000000000002,
 		"lyric": "This is my only fear: that we become"
 	},
 	{
-		"endTime": 139.20000000000002,
+		"startTime": 139.20000000000002,
 		"lyric": "Beautiful people"
 	},
 	{
-		"endTime": 140.9,
+		"startTime": 140.9,
 		"lyric": "Drop top, designer clothes"
 	},
 	{
-		"endTime": 143.20000000000002,
+		"startTime": 143.20000000000002,
 		"lyric": "Front row at fashion shows"
 	},
 	{
-		"endTime": 145.60000000000002,
+		"startTime": 145.60000000000002,
 		"lyric": "\"What d'you do?\" and \"Who d'you know?\""
 	},
 	{
-		"endTime": 148.20000000000002,
+		"startTime": 148.20000000000002,
 		"lyric": "Inside the world of beautiful people"
 	},
 	{
-		"endTime": 151.10000000000002,
+		"startTime": 151.10000000000002,
 		"lyric": "Champagne and rolled-up notes"
 	},
 	{
-		"endTime": 153.5,
+		"startTime": 153.5,
 		"lyric": "Prenups and broken homes"
 	},
 	{
-		"endTime": 156.0,
+		"startTime": 156.0,
 		"lyric": "Surrounded, but still alone"
 	},
 	{
-		"endTime": 158.60000000000002,
+		"startTime": 158.60000000000002,
 		"lyric": "Let's leave the party"
 	},
 	{
-		"endTime": 160.20000000000002,
+		"startTime": 160.20000000000002,
 		"lyric": "That's not who we are (We are, we are, we are)"
 	},
 	{
-		"endTime": 165.3,
+		"startTime": 165.3,
 		"lyric": "We are not beautiful, yeah"
 	},
 	{
-		"endTime": 170.3,
+		"startTime": 170.3,
 		"lyric": "Yeah, that's not who we are (We are, we are, we are)"
 	},
 	{
-		"endTime": 175.4,
+		"startTime": 175.4,
 		"lyric": "We are not beautiful (Beautiful)"
 	},
 	{
-		"endTime": 183.9,
+		"startTime": 183.9,
 		"lyric": "We are, we are, we are"
 	},
 	{
-		"endTime": 185.9,
+		"startTime": 185.9,
 		"lyric": "We are not beautiful"
 	}
 ]
