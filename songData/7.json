@@ -2,6 +2,6 @@
     "songName": "Beautiful People",
     "artist": "Ed Sheeran",
     "albumArt": "https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/beautifulpeople.jpg",
-    "color": "grey",
+    "color": "#7e7e7e",
     "url": "https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/songs/Ed%20Sheeran%20-%20Beautiful%20People%20(feat%20Khalid)%20%5BOfficial%20Lyric%20Video%5D.mp3"
 }
