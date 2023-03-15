@@ -1,0 +1,50 @@
+{
+    "artistName":"Drake",
+    "bio":"Famed hip-hop artist Drake was born to a mixed-race couple in Canada in 1986, and raised Jewish. He came to fame playing wheelchair-bound Jimmy Brooks in seven seasons of the popular teen soap Degrassi: The Next Generation. In 2006, Drake began circulating mixtapes of his raps, and signed a record deal in 2009. His hit songs include Every Girl, Best I Ever Had, Money to Blow and Take Care.",
+    "topHits":[
+         {
+            "type":"song",
+            "albumart":"https://media.pitchfork.com/photos/636509072145df8a03cc87b0/1:1/w_450%2Cc_limit/Drake.jpg",
+            "songname":"Rich Flex",
+            "artist": "Drake",
+            "year":"2022"
+         },
+         {
+            "type":"song",
+            "albumart":"https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+            "songname":"Jimmy Cooks",
+            "artist": "Drake",
+            "year":"2022"
+         },
+         {
+            "type":"song",
+            "albumart":"https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+            "songname":"One Dance",
+            "artist": "Drake",
+            "year":"2016"
+         }
+
+    ],
+    "recommendedArtists":[
+        {
+            "artistId":"2",
+            "artisname":"Shawn Mendes",
+            "artistimage":"https://tse2.mm.bing.net/th?id=OIP.DLx02Bnyj1Q3RmGr58ex1AHaIS&pid=Api&P=0"
+        },
+        {
+            "artistId":"3",
+            "artisname":"Billie Eilish",
+            "artistimage":"https://i.pinimg.com/originals/2e/9c/95/2e9c952e9d6e59c7f006e6cb89855011.jpg"
+        },
+        {
+            "artistId":"4",
+            "artisname":"The Weekend",
+            "artistimage":"https://media.gq.com/photos/61d5eeff12a2618938a032b5/3:2/w_2406,h_1604,c_limit/Screen%20Shot%202022-01-05%20at%202.17.16%20PM.png"
+        },
+        {
+            "artistId":"5",
+            "artisname":"Hayd",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/d_artist1.jpg"
+        }
+    ]
+}
