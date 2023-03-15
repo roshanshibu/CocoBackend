@@ -1,0 +1,29 @@
+[
+	{
+		"type":"song",
+		"artistName":"SHY Martin",
+		"songName":"Loose you too",
+		"url":"https://github.com/roshanshibu/CocoBackend/blob/master/images/loose.jpg?raw=true",
+		"songID":9
+	},
+	{
+		"type":"artist",
+		"artistName":"Taylor Swift",
+		"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png/170px-191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png",
+		"artistID":2	
+	},
+	{
+		"type":"lyrics",
+		"artistName":"Matoma",
+		"songName":"Slow",
+		"lyricHit":"I don't wanna go slow",
+		"url":"https://github.com/roshanshibu/CocoBackend/blob/master/images/matoma.jpg?raw=true",
+		"songID":5
+	},
+	{
+		"type":"artist",
+		"artistName":"Hayd",
+		"url":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/d_artist1.jpg",
+		"artistID":2
+	}
+]
