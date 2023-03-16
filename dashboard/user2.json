@@ -11,13 +11,13 @@
             "artistid":"3",
             "type":"artist",
             "artist": "Hayd",
-            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/d_artist1.jpg"
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/hayd.jpg"
          },
          {
             "artistid":"3",
             "type":"artist",
             "artist": "Shawn Mendes",
-            "artistimage":"https://tse2.mm.bing.net/th?id=OIP.DLx02Bnyj1Q3RmGr58ex1AHaIS&pid=Api&P=0"
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/shawn.jpg"
          },
          {
             "songid":"",
@@ -29,18 +29,18 @@
          {
             "songid":"",
             "type":"playlist",
-            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist3.jpg",
             "playlistname":"English Artists"
          },
          {
             "songid":"",
             "type":"playlist",
-            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist4.jpg",
             "playlistname":"Peaceful Place"
          }
     ],
     "pickedForYou":{ 
-        "image":"https://upload.wikimedia.org/wikipedia/en/9/9e/SiaEverydayIsChristmas.jpg",
+        "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/snowman.jpg",
         "songname":"Snowman",
         "artistname":"Sia",
         "recommendations":[
