@@ -3,7 +3,7 @@
          {
             "songid":"",
             "type":"song",
-            "albumart":"https://f4.bcbits.com/img/0026376666_10.jpg",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/dekkersong.jpg",
             "songname":"Let's Pretend",
             "artist": "Dekker"
          },
@@ -11,50 +11,50 @@
             "artistid":"2",
             "type":"artist",
             "artist": "The Weekend",
-            "artistimage":"https://media.gq.com/photos/61d5eeff12a2618938a032b5/3:2/w_2406,h_1604,c_limit/Screen%20Shot%202022-01-05%20at%202.17.16%20PM.png"
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/weekendartist.jpg"
          },
          {
             "artistid":"1",
             "type":"artist",
             "artist": "Drake",
-            "artistimage":"https://static01.nyt.com/images/2021/12/08/arts/06drake2/06drake2-mediumSquareAt3X.jpg"
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/drakeartist.jpg"
          },
          {
             "songid":"",
             "type":"song",
-            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/atmyworstsong.jpg",
             "songname":"At My Worst",
             "artist": "Pink Sweat$"
          },
          {
             "songid":"",
             "type":"playlist",
-            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist1.jpg",
             "playlistname":"Low Beats"
          },
          {
             "songid":"",
             "type":"playlist",
-            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist2.jpg",
             "playlistname":"Party Roll"
          }
     ],
     "pickedForYou":{ 
-        "image":"https://f4.bcbits.com/img/a0275419137_65",
+        "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/lightsareonsong.jpg",
         "songname":"Lights Are On",
         "artistname":"Tom Rosenthal",
         "recommendations":[
             {
                 "songid":"",
                 "type":"song",
-                "albumart":"https://i.scdn.co/image/ab67616d00001e0281d2341ea6c0d31a33207f26",
+                "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/itsoksong.jpg",
                 "songname":"It's OK",
                 "artist": "Tom Rosenthal"
              },
              {
                 "songid":"",
                 "type":"song",
-                "albumart":"https://cdns-images.dzcdn.net/images/cover/327a13284c291832cf01622a414847c9/500x500.jpg",
+                "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/beforeyougosong.jpg",
                 "songname":"Before You Go",
                 "artist": "Lewis Capaldi"
              }
@@ -63,27 +63,27 @@
     "radios":[
         {
             "songid":"",
-            "image":"https://static.displate.com/857x1200/displate/2020-04-17/f1df5457fe7d95933dd77c9498fa54a4_c3733e09b0da276f695a2a38c739a894.jpg",
+            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/techno.jpg",
             "name":"Techno"
         },
         {
             "songid":"",
-            "image":"https://pyxis.nymag.com/v1/imgs/3a3/b1f/2141226b8ab1ae07afe4b541ee0d2b0825-11-yic-pop-essay.rsquare.w700.jpg",
+            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/pop.jpg",
             "name":"Pop"
         },
         {
             "songid":"",
-            "image":"https://cdn-images.audioaddict.com/1/b/e/b/e/8/1bebe8759e23ab6a1b92e1d46e2e7f12.png",
+            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/jazz.png",
             "name":"Jazz"
         },
         {
             "songid":"",
-            "image":"https://i.scdn.co/image/ab67616d0000b2738cf47bc256b732a9467e61bb",
+            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/lofi.jpg",
             "name":"Lofi"
         },
         {
             "songid":"",
-            "image":"https://i.pinimg.com/originals/2f/2e/9f/2f2e9f46820a3a161667739f40a5fa95.jpg",
+            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/rock.jpg",
             "name":"Rock"
         }
     ]
