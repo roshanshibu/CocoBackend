@@ -1,5 +1,6 @@
 {
     "userName":"Steve",
+    "userImage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/steve.jpg",
     "topPicks":[
          {
             "songid":"9",
