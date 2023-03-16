@@ -30,13 +30,13 @@
             "songid":"12",
             "type":"playlist",
             "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist1.jpg",
-            "playlistname":"Low Beats"
+            "playlistname":"Feel Good"
          },
          {
             "songid":"13",
             "type":"playlist",
             "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist2.jpg",
-            "playlistname":"Party Roll"
+            "playlistname":"Low Beats"
          }
     ],
     "pickedForYou":{ 
