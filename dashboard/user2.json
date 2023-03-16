@@ -30,13 +30,13 @@
          {
             "songid":"3",
             "type":"playlist",
-            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/b_heaven.jpg",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist3.jpg",
             "playlistname":"English Artists"
          },
          {
             "songid":"8",
             "type":"playlist",
-            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/loose.jpg",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist4.jpg",
             "playlistname":"Peaceful Place"
          }
     ],
