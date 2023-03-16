@@ -3,72 +3,72 @@
          {
             "songid":"",
             "type":"song",
-            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/dekkersong.jpg",
-            "songname":"Let's Pretend",
-            "artist": "Dekker"
+            "albumart":"https://i.pinimg.com/originals/c5/71/83/c571830060c8fa6938417d1e79ec1bb3.jpg",
+            "songname":"Chasing Cars",
+            "artist": "Snow Patrol"
          },
          {
-            "artistid":"2",
+            "artistid":"",
             "type":"artist",
-            "artist": "The Weekend",
-            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/weekendartist.jpg"
+            "artist": "Hayd",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/d_artist1.jpg"
          },
          {
-            "artistid":"1",
+            "artistid":"",
             "type":"artist",
-            "artist": "Drake",
-            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/drakeartist.jpg"
+            "artist": "Shawn Mendes",
+            "artistimage":"https://tse2.mm.bing.net/th?id=OIP.DLx02Bnyj1Q3RmGr58ex1AHaIS&pid=Api&P=0"
          },
          {
             "songid":"",
             "type":"song",
-            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/atmyworstsong.jpg",
-            "songname":"At My Worst",
-            "artist": "Pink Sweat$"
+            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "songname":"Someone You Loved",
+            "artist": "Lewis Capaldi"
          },
          {
             "songid":"",
             "type":"playlist",
-            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist1.jpg",
-            "playlistname":"Low Beats"
+            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "playlistname":"English Artists"
          },
          {
             "songid":"",
             "type":"playlist",
-            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist2.jpg",
-            "playlistname":"Party Roll"
+            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "playlistname":"Peaceful Place"
          }
     ],
     "pickedForYou":{ 
-        "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/lightsareonsong.jpg",
-        "songname":"Lights Are On",
-        "artistname":"Tom Rosenthal",
+        "image":"https://upload.wikimedia.org/wikipedia/en/9/9e/SiaEverydayIsChristmas.jpg",
+        "songname":"Snowman",
+        "artistname":"Sia",
         "recommendations":[
             {
                 "songid":"",
                 "type":"song",
-                "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/itsoksong.jpg",
-                "songname":"It's OK",
-                "artist": "Tom Rosenthal"
+                "albumart":"https://i.scdn.co/image/ab67616d0000b273d3a757231b119bacf68b3ec2",
+                "songname":"Runaway",
+                "artist": "Aurora"
              },
              {
                 "songid":"",
                 "type":"song",
-                "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/beforeyougosong.jpg",
-                "songname":"Before You Go",
-                "artist": "Lewis Capaldi"
+                "albumart":"https://cdns-images.dzcdn.net/images/cover/f78d1f9f1cb9965c11b695c62b30c3de/500x500.jpg",
+                "songname":"Older",
+                "artist": "Sasha Alex Sloan"
              }
         ]
     },
     "radios":[
         {
             "songid":"",
-            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/techno.jpg",
-            "name":"Techno"
+            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/lofi.jpg",
+            "name":"Lofi"
         },
         {
             "songid":"",
-            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/pop.jpg",
+            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/pop.png",
             "name":"Pop"
         },
         {
@@ -78,13 +78,12 @@
         },
         {
             "songid":"",
-            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/lofi.jpg",
-            "name":"Lofi"
-        },
-        {
-            "songid":"",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/rock.jpg",
             "name":"Rock"
+        },{
+            "songid":"",
+            "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/techno.jpg",
+            "name":"Techno"
         }
     ]
 }

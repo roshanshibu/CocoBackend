@@ -1,18 +1,18 @@
 {
     "artistName":"The Weekend",
-    "artistimage":"https://media.gq.com/photos/61d5eeff12a2618938a032b5/3:2/w_2406,h_1604,c_limit/Screen%20Shot%202022-01-05%20at%202.17.16%20PM.png",
+    "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/weekendartist.jpg",
     "bio":"The Weeknd is the stage name of Canadian singer, songwriter, and record producer Abel Makkonen Tesfaye. He got recognition after posting many of his songs on YouTube under the username 'The Weeknd'. Inspired by legendary Michael Jackson to become a singer, he was later influenced by R&B stars like Aaliyah, Missy Elliott, Timbaland and The Neptunes. He started his career with mixtapes that he released from his own website for free. His three mixtapes, 'House of Balloons', 'Thursday', and 'Echoes of Silence', helped him create a loyal fan base. All of his studio albums were received with positive reviews. Suffering from shyness and insecurity as a child, Tesfaye made conscious efforts to shun publicity during his early career. He avoided giving interviews and didn't even use his own image in his mixtape covers. He interacted with his fans on Twitter. However, he gained confidence as his songs started to top charts worldwide.",
     "topHits":[
          {
             "type":"song",
-            "albumart":"https://cdns-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/500x500.jpg",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/starboy.jpg",
             "songname":"Die For You",
             "artist": "The Weekend",
             "year":"2016"
          },
          {
             "type":"song",
-            "albumart":"https://cdns-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/500x500.jpg",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/starboy.jpg",
             "songname":"Starboy",
             "artist": "The Weekend",
             "year":"2016"
@@ -22,22 +22,22 @@
         {
             "artistid":"3",
             "artisname":"Shawn Mendes",
-            "artistimage":"https://tse2.mm.bing.net/th?id=OIP.DLx02Bnyj1Q3RmGr58ex1AHaIS&pid=Api&P=0"
-        },
-        {
-            "artistid":"4",
-            "artisname":"Billie Eilish",
-            "artistimage":"https://i.pinimg.com/originals/2e/9c/95/2e9c952e9d6e59c7f006e6cb89855011.jpg"
-        },
-        {
-            "artistid":"1",
-            "artisname":"Drake",
-            "artistimage":"https://static01.nyt.com/images/2021/12/08/arts/06drake2/06drake2-mediumSquareAt3X.jpg"
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/shawn.jpg"
         },
         {
             "artistid":"5",
+            "artisname":"Billie Eilish",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/billie.jpg"
+        },
+        {
+            "artistid":"2",
+            "artisname":"The Weekend",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/weekendartist.jpg"
+        },
+        {
+            "artistid":"4",
             "artisname":"Hayd",
-            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/d_artist1.jpg"
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/hayd.jpg"
         }
     ]
 }
