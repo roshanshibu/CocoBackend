@@ -1,0 +1,48 @@
+{
+    "artistName":"Shawn Mendes",
+    "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/shawn.jpg",
+    "bio":"Shawn Mendes is a Canadian pop singer and songwriter. After uploading a series of his cover versions to various video-sharing sites (beginning with the now-defunct application Vine in 2012), Mendes earned a dedicated following that he cultivated through social media outlets. His talent, teen-idol good looks and built-in fan base quickly landed him a record deal. In 2014, his debut single, Life of the Party, charted at No. 24 on the Billboard 100, making the then 15-year-old Mendes the youngest artist to have a debut song in the Top 25.",
+    "topHits":[
+         {
+            "type":"song",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/senorita.png",
+            "songname":"Senorita",
+            "year":"2019"
+         },
+         {
+            "type":"song",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/treatyou.jpg",
+            "songname":"Treat You Better",
+            "year":"2016"
+         },
+         {
+            "type":"song",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/stitches.jpg",
+            "songname":"Stitches",
+            "year":"2015"
+         }
+
+    ],
+    "recommendedArtists":[
+        {
+            "artistid":"2",
+            "artisname":"The Weekend",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/weekendartist.jpg"
+        },
+        {
+            "artistid":"1",
+            "artisname":"Drake",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/drakeartist.jpg"
+        },
+        {
+            "artistid":"5",
+            "artisname":"Billie Eilish",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/billie.jpg"
+        },
+        {
+            "artistid":"4",
+            "artisname":"Hayd",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/hayd.jpg"
+        }
+    ]
+}

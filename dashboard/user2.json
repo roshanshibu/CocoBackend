@@ -8,13 +8,13 @@
             "artist": "Snow Patrol"
          },
          {
-            "artistid":"",
+            "artistid":"3",
             "type":"artist",
             "artist": "Hayd",
             "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/d_artist1.jpg"
          },
          {
-            "artistid":"",
+            "artistid":"3",
             "type":"artist",
             "artist": "Shawn Mendes",
             "artistimage":"https://tse2.mm.bing.net/th?id=OIP.DLx02Bnyj1Q3RmGr58ex1AHaIS&pid=Api&P=0"

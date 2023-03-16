@@ -30,9 +30,9 @@
             "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/billie.jpg"
         },
         {
-            "artistid":"2",
-            "artisname":"The Weekend",
-            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/weekendartist.jpg"
+            "artistid":"1",
+            "artisname":"Drake",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/drakeartist.jpg"
         },
         {
             "artistid":"4",

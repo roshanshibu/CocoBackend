@@ -1,0 +1,41 @@
+{
+    "artistName":"Hayd",
+    "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/hayd.jpg",
+    "bio":"Singer, songwriter and producer known for piano-driven pop songs. In 2019, he released his first single, Vacant Eyes. He rose to viral success with popular streaming tracks like October Snow and Superhero. He has amassed more than 220,000 subscribers on his Hayd YouTube channel. ",
+    "topHits":[
+         {
+            "type":"song",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/senorita.png",
+            "songname":"Senorita",
+            "year":"2019"
+         },
+         {
+            "type":"song",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/treatyou.jpg",
+            "songname":"Treat You Better",
+            "year":"2016"
+         }
+    ],
+    "recommendedArtists":[
+        {
+            "artistid":"3",
+            "artisname":"Shawn Mendes",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/shawn.jpg"
+        },
+        {
+            "artistid":"2",
+            "artisname":"The Weekend",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/weekendartist.jpg"
+        },
+        {
+            "artistid":"1",
+            "artisname":"Drake",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/drakeartist.jpg"
+        },
+        {
+            "artistid":"5",
+            "artisname":"Billie Eilish",
+            "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/billie.jpg"
+        }
+    ]
+}
