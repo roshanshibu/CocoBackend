@@ -28,22 +28,22 @@
     ],
     "recommendedArtists":[
         {
-            "artistId":"2",
+            "artistid":"2",
             "artisname":"Shawn Mendes",
             "artistimage":"https://tse2.mm.bing.net/th?id=OIP.DLx02Bnyj1Q3RmGr58ex1AHaIS&pid=Api&P=0"
         },
         {
-            "artistId":"3",
+            "artistid":"3",
             "artisname":"Billie Eilish",
             "artistimage":"https://i.pinimg.com/originals/2e/9c/95/2e9c952e9d6e59c7f006e6cb89855011.jpg"
         },
         {
-            "artistId":"4",
+            "artistid":"4",
             "artisname":"The Weekend",
             "artistimage":"https://media.gq.com/photos/61d5eeff12a2618938a032b5/3:2/w_2406,h_1604,c_limit/Screen%20Shot%202022-01-05%20at%202.17.16%20PM.png"
         },
         {
-            "artistId":"5",
+            "artistid":"5",
             "artisname":"Hayd",
             "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/d_artist1.jpg"
         }
