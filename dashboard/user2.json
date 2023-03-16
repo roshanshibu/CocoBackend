@@ -2,11 +2,11 @@
     "userName":"Linda",
     "topPicks":[
          {
-            "songid":"",
+            "songid":"3",
             "type":"song",
-            "albumart":"https://i.pinimg.com/originals/c5/71/83/c571830060c8fa6938417d1e79ec1bb3.jpg",
-            "songname":"Chasing Cars",
-            "artist": "Snow Patrol"
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/b_heaven.jpg",
+            "songname":"Heaven",
+            "artist": "Bryan Adams"
          },
          {
             "artistid":"4",
@@ -21,22 +21,22 @@
             "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/shawn.jpg"
          },
          {
-            "songid":"",
+            "songid":"6",
             "type":"song",
-            "albumart":"https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
-            "songname":"Someone You Loved",
-            "artist": "Lewis Capaldi"
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/feel_good.jpg",
+            "songname":"Feel Good",
+            "artist": "Gryffin"
          },
          {
-            "songid":"",
+            "songid":"3",
             "type":"playlist",
-            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist3.jpg",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/b_heaven.jpg",
             "playlistname":"English Artists"
          },
          {
-            "songid":"",
+            "songid":"8",
             "type":"playlist",
-            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist4.jpg",
+            "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/loose.jpg",
             "playlistname":"Peaceful Place"
          }
     ],
@@ -46,16 +46,16 @@
         "artistname":"Sia",
         "recommendations":[
             {
-                "songid":"",
+                "songid":"14",
                 "type":"song",
-                "albumart":"https://i.scdn.co/image/ab67616d0000b273d3a757231b119bacf68b3ec2",
+                "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/runaway.jpg",
                 "songname":"Runaway",
                 "artist": "Aurora"
              },
              {
-                "songid":"",
+                "songid":"15",
                 "type":"song",
-                "albumart":"https://cdns-images.dzcdn.net/images/cover/f78d1f9f1cb9965c11b695c62b30c3de/500x500.jpg",
+                "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/older.jpg",
                 "songname":"Older",
                 "artist": "Sasha Alex Sloan"
              }
@@ -63,26 +63,26 @@
     },
     "radios":[
         {
-            "songid":"",
+            "songid":"3",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/lofi.jpg",
             "name":"Lofi"
         },
         {
-            "songid":"",
+            "songid":"6",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/pop.png",
             "name":"Pop"
         },
         {
-            "songid":"",
+            "songid":"10",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/jazz.png",
             "name":"Jazz"
         },
         {
-            "songid":"",
+            "songid":"13",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/rock.jpg",
             "name":"Rock"
         },{
-            "songid":"",
+            "songid":"2",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/techno.jpg",
             "name":"Techno"
         }
