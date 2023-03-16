@@ -1,7 +1,7 @@
 {
     "topPicks":[
          {
-            "songid":"",
+            "songid":"9",
             "type":"song",
             "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/dekkersong.jpg",
             "songname":"Let's Pretend",
@@ -20,20 +20,20 @@
             "artistimage":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/drakeartist.jpg"
          },
          {
-            "songid":"",
+            "songid":"10",
             "type":"song",
             "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/atmyworstsong.jpg",
             "songname":"At My Worst",
             "artist": "Pink Sweat$"
          },
          {
-            "songid":"",
+            "songid":"12",
             "type":"playlist",
             "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist1.jpg",
             "playlistname":"Low Beats"
          },
          {
-            "songid":"",
+            "songid":"13",
             "type":"playlist",
             "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/playlist2.jpg",
             "playlistname":"Party Roll"
@@ -45,14 +45,14 @@
         "artistname":"Tom Rosenthal",
         "recommendations":[
             {
-                "songid":"",
+                "songid":"11",
                 "type":"song",
                 "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/itsoksong.jpg",
                 "songname":"It's OK",
                 "artist": "Tom Rosenthal"
              },
              {
-                "songid":"",
+                "songid":"12",
                 "type":"song",
                 "albumart":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/beforeyougosong.jpg",
                 "songname":"Before You Go",
@@ -62,26 +62,26 @@
     },
     "radios":[
         {
-            "songid":"",
+            "songid":"3",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/lofi.jpg",
             "name":"Lofi"
         },
         {
-            "songid":"",
+            "songid":"6",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/pop.png",
             "name":"Pop"
         },
         {
-            "songid":"",
+            "songid":"10",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/jazz.png",
             "name":"Jazz"
         },
         {
-            "songid":"",
+            "songid":"13",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/rock.jpg",
             "name":"Rock"
         },{
-            "songid":"",
+            "songid":"2",
             "image":"https://raw.githubusercontent.com/roshanshibu/CocoBackend/master/images/techno.jpg",
             "name":"Techno"
         }
