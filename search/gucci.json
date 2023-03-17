@@ -1,0 +1,23 @@
+[
+	{
+		"type":"artist",
+		"artistName":"Gucci Mane",
+		"url":"https://upload.wikimedia.org/wikipedia/commons/7/71/Gucci_Mane_at_515_Alive_%28cropped_portrait%29.jpg",
+		"artistID":2
+	},
+	{
+		"type":"lyrics",
+		"artistName":"Lil Pump",
+		"songName":"Gucci Gang",
+		"lyricHit":"Gucci gang, Gucci gang",
+		"url":"https://upload.wikimedia.org/wikipedia/en/b/bb/Lil_Pump_%E2%80%93_Gucci_Gang.png",
+		"songID":4
+	},
+	{
+		"type":"song",
+		"artistName":"Eladio Carrion",
+		"songName":"Gucci fendi",
+		"url":"https://m.media-amazon.com/images/I/51G6+m0biuL._UXNaN_FMjpg_QL85_.jpg",
+		"songID":5
+	}
+]
